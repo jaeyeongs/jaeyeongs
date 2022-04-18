@@ -14,7 +14,7 @@ AI 모델 개발, 자연어처리(NLP), 정형/비정형 데이터 분석을 하
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 
-**Tools**
+**IDE**
 
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
@@ -26,4 +26,5 @@ AI 모델 개발, 자연어처리(NLP), 정형/비정형 데이터 분석을 하
 ![Github](https://img.shields.io/badge/Github-000000.svg?&style=for-the-badge&logo=Github&logoColor=white)
 
 ## 🌱 Stats
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaeyeongs&show_icons=true&theme=dark)
