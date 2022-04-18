@@ -25,4 +25,5 @@ AI 모델 개발, 자연어처리(NLP), 정형/비정형 데이터 분석을 하
 ![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white)
 ![Github](https://img.shields.io/badge/Github-000000.svg?&style=for-the-badge&logo=Github&logoColor=white)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaeyeongs&show_icons=true&theme=radical)
+## 🌱 Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaeyeongs&show_icons=true&theme=dark)
