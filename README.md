@@ -28,3 +28,4 @@ AI 모델 개발, 자연어처리(NLP), 정형/비정형 데이터 분석을 하
 ## 🌱 Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaeyeongs&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeyeongs&layout=compact&theme=dark)
