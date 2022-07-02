@@ -1,7 +1,11 @@
+<div align=center>
+
 ## 👋 Intro
 
 AI 모델 개발, 자연어처리(NLP), 정형/비정형 데이터 분석을 하고 있는 신재영입니다.
 
+
+<div align=center>
 
 ## 🌱 Tech Stack
 
@@ -14,11 +18,12 @@ AI 모델 개발, 자연어처리(NLP), 정형/비정형 데이터 분석을 하
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 
-**IDE**
+**Tool**
 
-![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 ![GoogleColab](https://img.shields.io/badge/GoogleColab-F9AB00.svg?&style=for-the-badge&logo=GoogleColab&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white)
 
 **Collaboration**
 
@@ -26,7 +31,9 @@ AI 모델 개발, 자연어처리(NLP), 정형/비정형 데이터 분석을 하
 ![Github](https://img.shields.io/badge/Github-000000.svg?&style=for-the-badge&logo=Github&logoColor=white)
 ![Gitlab](https://img.shields.io/badge/Gitlab-000000.svg?&style=for-the-badge&logo=Gitlab&logoColor=white)
 
-## 🌱 Stats
+<div align=center>
+
+##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaeyeongs&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeyeongs&layout=compact&theme=dark)
