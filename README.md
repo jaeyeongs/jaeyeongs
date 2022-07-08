@@ -39,4 +39,7 @@ AI 모델 연구 및 자연어처리(NLP), 정형/비정형 데이터 분석을 
 ##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaeyeongs&show_icons=true&theme=dark)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeyeongs&layout=compact&theme=dark)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjaeyeongs&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
