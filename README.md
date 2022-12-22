@@ -20,9 +20,10 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=white)
 
+![Postman](https://img.shields.io/badge/postman-FF6C37.svg?&style=for-the-badge&logo=Postman&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white)
 ![Github](https://img.shields.io/badge/Github-000000.svg?&style=for-the-badge&logo=Github&logoColor=white)
-![Gitlab](https://img.shields.io/badge/Gitlab-000000.svg?&style=for-the-badge&logo=Gitlab&logoColor=white)
+![Gitlab](https://img.shields.io/badge/Gitlab-FC6D26.svg?&style=for-the-badge&logo=Gitlab&logoColor=white)
 
 <div align=center>
 
