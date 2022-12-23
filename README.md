@@ -21,7 +21,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=white)
 
 ![Postman](https://img.shields.io/badge/postman-FF6C37.svg?&style=for-the-badge&logo=Postman&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-FFFFFF.svg?&style=for-the-badge&logo=Notion&logoColor=black)
 ![Github](https://img.shields.io/badge/Github-000000.svg?&style=for-the-badge&logo=Github&logoColor=white)
 ![Gitlab](https://img.shields.io/badge/Gitlab-FC6D26.svg?&style=for-the-badge&logo=Gitlab&logoColor=white)
 
@@ -32,5 +32,3 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaeyeongs&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeyeongs&layout=compact&theme=dark)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjaeyeongs&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
