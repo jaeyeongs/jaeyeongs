@@ -1,8 +1,10 @@
-## 👋 Things I do
+### 👋 Things I do
 
 자연어처리(NLP) 모델 연구 및 개발과 정형/비정형 데이터 분석을 하고 있습니다
 
-## 🛠️ Tech Stack
+##
+
+### 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) 
