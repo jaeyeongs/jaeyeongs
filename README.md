@@ -14,8 +14,10 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2.svg?&style=for-the-badge&logo=MLflow&logoColor=white)
 
+![linux](https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-FF6C37.svg?&style=for-the-badge&logo=Postman&logoColor=white)
+
 ![Github](https://img.shields.io/badge/Github-000000.svg?&style=for-the-badge&logo=Github&logoColor=white)
 ![Gitlab](https://img.shields.io/badge/Gitlab-FC6D26.svg?&style=for-the-badge&logo=Gitlab&logoColor=white)
 
