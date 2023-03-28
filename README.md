@@ -19,8 +19,5 @@
 
 #### 📬 Find me at
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=flat&logo=LinkedIn&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?&style=flat&logo=Gmail&logoColor=white)
-
-[LinkedIn]: https://www.linkedin.com/in/%EC%9E%AC%EC%98%81-%EC%8B%A0-53a27618a/
-
+<a href="[https://www.linkedin.com/in/seongil-heo-5469aa1b3/](https://www.linkedin.com/in/%EC%9E%AC%EC%98%81-%EC%8B%A0-53a27618a/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="skek1511@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
