@@ -8,12 +8,9 @@
 ![scikitlearn](https://img.shields.io/badge/scikitlearn-F7931E.svg?&style=flat&logo=scikitlearn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=flat&logo=PyTorch&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2.svg?&style=flat&logo=MLflow&logoColor=white)
-
 ![linux](https://img.shields.io/badge/linux-FCC624.svg?&style=flat&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=flat&logo=Docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-FF6C37.svg?&style=flat&logo=Postman&logoColor=white)
-![Github](https://img.shields.io/badge/Github-000000.svg?&style=flat&logo=Github&logoColor=white)
-![Gitlab](https://img.shields.io/badge/Gitlab-FC6D26.svg?&style=flat&logo=Gitlab&logoColor=white)
 
 ### 📬 Find me at
 
