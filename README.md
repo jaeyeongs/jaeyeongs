@@ -1,6 +1,8 @@
 ### 🚀 Things I do
 
-자연어처리(NLP) 모델 연구 및 개발과 정형/비정형 데이터 분석을 하고 있습니다
+- Natural Language Processing (NLP) Model Research and Development
+- Structured/Unstructured Data Analysis
+- Build Model Pipeline(MLOps)
 
 ### 🛠️ Tech Stack
 
