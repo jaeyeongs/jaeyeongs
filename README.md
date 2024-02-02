@@ -1,8 +1,8 @@
-### 🚀 Things I do
+### 🚀 Interest
 
-- Natural Language Processing(NLP) Model Research and Development
+- Natural Language Processing AI Research and Development
 - Structured/Unstructured Data Analysis
-- Build Machine Learning Pipeline(MLOps)
+- Machine Learning Pipeline(MLOps)
 
 ### 🛠️ Tech Stack
 
