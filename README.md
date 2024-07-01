@@ -1,12 +1,13 @@
-### 🚀 Interest
+### 🚀 Things I do
 
-- Natural Language Processing AI Research and Development
-- Structured/Unstructured Data Analysis
-- Machine Learning Pipeline(MLOps)
+- SmartFactory Manufacturing Data Collection & Analysis
+- Development AI Model using ML / DL
+- Development Data Analysis Solution
 
 ### 🛠️ Tech Stack
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat&logo=MySQL&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545.svg?&style=flat&logo=MariaDB&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=white)
 ![scikitlearn](https://img.shields.io/badge/scikitlearn-F7931E.svg?&style=flat&logo=scikitlearn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=flat&logo=PyTorch&logoColor=white)
