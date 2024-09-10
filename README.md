@@ -1,8 +1,8 @@
 ### 🚀 Things I do
 
-- Manufacturing Data Collection & Analysis for SmartFactory
-- Development AI Model using ML / DL
-- Development Data Analytics Solution
+- Manufacturing data collection and analysis for SmartFactory
+- AI model research engineering
+- Development data analytics solution
 
 ### 🛠️ Tech Stack
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat&logo=MySQL&logoColor=white)
