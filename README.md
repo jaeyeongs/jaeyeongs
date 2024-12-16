@@ -1,15 +1,15 @@
 ### 🚀 Things I do
 
-#### Data preprocessing
+**■ Data preprocessing**
 - Developing logic to effectively process large collected manufacturing facility data(structured and unstructured) for analysis.
 - Data parsing, statistical processing, data filtering
 - Designing Feature and developing analytical data mart that can be used directly in analytical models or extracted insights
 
-#### Developing Analytical Models
+**■ Developing Analytical Models**
 - Analytical modeling : Statistics / Machine Learning & Deep Learning model development
 - Developing of defect detection / prediction models
 
-#### Operating Analytical Models
+**■ Operating Analytical Models**
 - Improving the performance of models applied to services using analysis
 - Developing of defect detection / prediction models
 - Expanding the scope of model application following the launch of new models
