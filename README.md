@@ -1,10 +1,17 @@
-### 🚀 Things I do
-- Collection and preprocessing of manufacturing and equipment data
-- Development of ML/DL based AI models and system integration
-- Data Analytics/AI solution development
-- Execution of data analysis and AI project Proof of Concept (PoC)
+## Work Experience
+#### Yura Corporation (2024.06 ~ )
+M.DX Team - Data Scientist
+- manufacturing data collection and processing
+- research and development of ML/DL models for manufacturing industry
+- development of AI-based application systems (LLM/RAG)
 
-### 🛠️ Tech Stack
+#### SweetK (2022.02 ~ 2023.08)
+AI Lab - AI Research Engineer
+- research and development NLP(QA/IR)
+- development and deployment AI models
+- development and operation document-based QA chatbot solutions
+
+## Tech Stack
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat&logo=MySQL&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545.svg?&style=flat&logo=MariaDB&logoColor=white)\
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=Python&logoColor=white)
