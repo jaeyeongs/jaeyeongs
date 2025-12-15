@@ -1,9 +1,11 @@
 ## Work Experience
 #### Yura Corporation (2024.06 ~ )
-[AX TFT] AI Engineer (2025.10 ~)
-- Development of AI application(LLM/RAG) for enterprise work efficiency
+[IT Business Division AX TFT] AI Engineer (2025.10 ~)
+- Research and development of ML/DL models for manufacturing industry
+- Establishing an AX strategy to improve operational efficiency
+- Development AI Agent(RAG/LLM)
 
-[M.DX Team] Data Scientist (2024.06 ~ 2025.09)
+[IT Business Division M.DX Office M.DX Team] Data Scientist (2024.06 ~ 2025.09)
 - Manufacturing data collection and processing
 - Research and development of ML/DL models for manufacturing industry
 - Development of AI-based application systems
